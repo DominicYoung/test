@@ -1,3 +1,4 @@
 this is an another txt.
 too see what happened!
 test rebase in another.txt
+test rebase in another.txt twice
